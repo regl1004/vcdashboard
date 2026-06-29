@@ -1,9 +1,0 @@
-﻿Region,Branch,Responses,Avg_NPS_score,Avg_satisfaction_score,Avg_behaviour_score,Promoter_count,Passive_count,Detractor_count,Satisfied_count,Neutral_count,Dissatisfied_count,Any_value_add_count,Follow_up_requested_count,NPS,Promoter %,Passive %,Detractor %,Satisfied %,Dissatisfied %,Any value-add %,Follow-up requested %,Dataset label,Advice response count,Service response count
-Fraser Valley,Branch E,24,7.38,3.5,2.79,7,9,8,13,7,4,8,2,-4.2,29.2,37.5,33.3,54.2,16.7,33.3,8.3,Illustrative synthetic data — not actual results,9,15
-Fraser Valley,Branch F,18,8.39,3.72,3.17,10,6,2,13,3,2,12,1,44.4,55.6,33.3,11.1,72.2,11.1,66.7,5.6,Illustrative synthetic data — not actual results,9,9
-Island & Coastal,Branch G,5,8.4,3.8,3.0,3,2,0,3,2,0,3,0,60.0,60.0,40.0,0.0,60.0,0.0,60.0,0.0,Illustrative synthetic data — not actual results,3,2
-Island & Coastal,Branch H,7,8.29,4.14,3.43,2,5,0,6,1,0,3,0,28.6,28.6,71.4,0.0,85.7,0.0,42.9,0.0,Illustrative synthetic data — not actual results,4,3
-Metro North,Branch A,28,8.64,4.18,3.61,19,7,2,22,6,0,17,1,60.7,67.9,25.0,7.1,78.6,0.0,60.7,3.6,Illustrative synthetic data — not actual results,11,17
-Metro North,Branch B,22,7.59,3.73,3.05,5,12,5,15,5,2,8,0,0.0,22.7,54.5,22.7,68.2,9.1,36.4,0.0,Illustrative synthetic data — not actual results,4,18
-Metro South,Branch C,18,7.44,3.61,3.0,7,6,5,8,7,3,6,0,11.1,38.9,33.3,27.8,44.4,16.7,33.3,0.0,Illustrative synthetic data — not actual results,5,13
-Metro South,Branch D,28,8.71,3.89,3.39,17,10,1,19,7,2,22,1,57.1,60.7,35.7,3.6,67.9,7.1,78.6,3.6,Illustrative synthetic data — not actual results,15,13
