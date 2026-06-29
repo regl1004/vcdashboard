@@ -1,0 +1,14 @@
+﻿Interaction type,Value-add outcome selected,Selection_count,Promoter_selections,Passive_selections,Detractor_selections,Interaction response count,Selection rate % of interaction responses,Any value-add %,Dataset label
+Advice,A clear plan to revisit my needs and goals in the future,13,9,3,1,60,21.7,66.7,Illustrative synthetic data — not actual results
+Advice,A follow-up appointment booked (with this advisor or another specialist),12,11,1,0,60,20.0,66.7,Illustrative synthetic data — not actual results
+Advice,A recommended product or service relevant to my needs,12,9,3,0,60,20.0,66.7,Illustrative synthetic data — not actual results
+Advice,Information about how Vancity supports my community,5,5,0,0,60,8.3,66.7,Illustrative synthetic data — not actual results
+Advice,Information or tools to help me manage my finances,12,10,2,0,60,20.0,66.7,Illustrative synthetic data — not actual results
+Advice,None of the above,20,5,12,3,60,33.3,66.7,Illustrative synthetic data — not actual results
+Advice,Something else,8,3,5,0,60,13.3,66.7,Illustrative synthetic data — not actual results
+Service,A recommended product or service relevant to my needs,14,11,3,0,90,15.6,43.3,Illustrative synthetic data — not actual results
+Service,An appointment booked for additional financial support or information,8,6,2,0,90,8.9,43.3,Illustrative synthetic data — not actual results
+Service,Information about how Vancity supports my community,9,8,0,1,90,10.0,43.3,Illustrative synthetic data — not actual results
+Service,Information or tools to help me manage my finances,8,6,2,0,90,8.9,43.3,Illustrative synthetic data — not actual results
+Service,None of the above,51,10,25,16,90,56.7,43.3,Illustrative synthetic data — not actual results
+Service,Something else,12,8,2,2,90,13.3,43.3,Illustrative synthetic data — not actual results
